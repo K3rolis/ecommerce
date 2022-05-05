@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <div>TEST_1</div>
+    <div>TEST_2</div>
 </body>
 </html>
